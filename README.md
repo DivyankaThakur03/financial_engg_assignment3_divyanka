@@ -35,7 +35,7 @@ assignment3/
 ### Setup
 ```bash
 # Clone repository
-git clone [your-repo-url].git
+git clone "repo name"
 cd assignment3
 
 # Install dependencies
